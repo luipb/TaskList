@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Work_list</string>
+    <string name="name_your_list">Name your list:</string>
+    <string name="create">Create</string>
+    <string name="task">Task</string>
+    <string name="name">Name:</string>
+    <string name="description">Description:</string>
+    <string name="date">Date:</string>
+    <string name="hour">Hour:</string>
+</resources>
